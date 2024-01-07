@@ -1,7 +1,7 @@
 
 <h1>Simple To-do Project</h1>
 
-<p>This is a Simple To-do List Project that includes the ability to add, delete and strike through the todos 
+<p>This is a simple To-do List Project that includes the ability to add, delete and strike through the todos 
 </p>
 <h1>Table of Content</h1>
 
