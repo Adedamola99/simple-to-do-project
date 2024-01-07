@@ -1,6 +1,30 @@
-# simple-to-do-project
-interactive to do project using html, css and javascript 
 
-A beautiful to-do list that includes the ability to add, delete and strike through the todos 
+Simple To-do Project 
+
+<p>This is a Simple To-do List Project that includes the ability to add, delete and strike through the todos 
+</p>
+<h1>Table of Content</h1>
+
+<ul>
+  <li>Overview
+    <ul>
+      <li>The Challenge</li>
+      <li>Screenshot(s)</li>
+      <li>Link(s)</li>
+    </ul>
+  </li>
+  <li>My Process
+    <ul>
+      <li>Built with</li>
+      <li>What I learned</li>
+      <li>useful resources</li>
+      <li>Continued development</li>
+    </ul>
+  </li>
+  <li>Author</li>
+  <li>Acknowledgments</li>
+</ul>
+
+# 
 
 **Table of Content
